@@ -1,0 +1,11 @@
+.heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(236, 163, 74);
+    text-align: center;
+    
+}
+.para{
+    text-align: center;
+    color: white;
+    background-color: #008b8ba3;
+}

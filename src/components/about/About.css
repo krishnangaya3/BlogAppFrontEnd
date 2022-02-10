@@ -1,0 +1,22 @@
+#pic{
+    margin-right: 20px;
+    margin-top: -20px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.profile{
+    /* background-image: url('login.jpeg'); */
+    width: 500px;
+    text-align: center;
+    margin-left: 30%;
+    margin: auto;
+    padding: 40px;
+    margin-top: 5%;
+    color: black;
+    font-family: 'Century Gothic',sans-serif;
+}
+.profile h1, h3, ul{
+    margin-right: 20px;
+}

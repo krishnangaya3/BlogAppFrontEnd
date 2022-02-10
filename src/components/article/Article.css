@@ -1,0 +1,118 @@
+#articles{
+    color: darkred;
+    text-align: center;
+    font-family: 'Roboto'; 
+    margin-top: 20px;
+}
+
+.article{
+    font-family: 'Roboto';
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+    text-align: center;
+    color: wheat;
+}
+
+.desc {
+    color:white;
+}
+.article_head{
+    margin-left: 37%;
+    margin-top: 5%;
+    padding-top: 20px;
+    display: block;
+    width: 300px;
+    padding: 8px;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    border: 2px solid black;
+    margin-bottom: 16px;
+    background-color: black;
+    color: white;
+}
+p{
+   font-size: x large;
+}
+.like{
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    width: 70px;
+    height: 50px;
+    position: relative;
+    top: 40px;
+    left: 39%;
+}
+.desc{
+    font-family: 'Roboto';
+    text-align: 'center';
+    position: 'relative';
+    top: '50px';
+}
+
+.votes{
+    text-align: center;
+    margin-top: 5px;
+    background-color: coral;
+    width: 20%;
+    margin-left: 40%;
+    border-radius: 8px;
+}
+
+#comment{
+    margin-left: 100px;
+    color: darkcyan;
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+
+}
+
+.comments-head{
+    margin-left: 100px;
+    margin-top: 50px;
+    text-decoration: underline;
+     
+}
+.comments{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.add-comment{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* position: absolute;
+    top: 150px; */
+    width: 100px;
+    height: 100px;
+}
+
+.add-comment h3{
+    width: 200px;
+}
+
+.add-comment input,textarea{
+   
+    display: block;
+    width: 300px;
+    padding: 8px;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    border: 2px solid black;
+    margin-bottom: 16px;
+}
+
+.add-comment button {
+    display: block;
+    width: 320px;
+    height: 50px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+  }
